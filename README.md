@@ -25,7 +25,7 @@
 ---
 
 ## 💼 Sobre mim  
-Como criadora de conteúdo e desenvolvedora, combino habilidades em front-end com paixão pelo universo gamer. Tenho experiência na criação de interfaces interativas, projetos baseados em design voltados para usuários e otimização de experiências de navegação. Atuo também no compartilhamento de conhecimento e engajamento com comunidades de tecnologia e games.
+Como criadora de conteúdo e desenvolvedora, combino habilidades em front end e back end com paixão pelo universo gamer. Tenho experiência na criação de interfaces interativas, projetos baseados em design voltados para usuários e otimização de experiências de navegação. Atuo também no compartilhamento de conhecimento e engajamento com comunidades de tecnologia e games.
 
 ---
 
