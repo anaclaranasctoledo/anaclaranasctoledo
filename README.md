@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Ana Clara Nascimento Toledo
+# 👋 Oii, eu sou Ana Clara Toledo
 
-🎮 Criadora de conteúdo e desenvolvedora front-end apaixonada por design de interfaces, tecnologia e o universo dos games.
+🎮 Criadora de conteúdo e desenvolvedora full stack apaixonada por design de interfaces, tecnologia e o universo dos games.
 
 ---
 
