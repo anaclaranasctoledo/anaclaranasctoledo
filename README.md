@@ -22,27 +22,14 @@
 
 ## 📊 Estatísticas no GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anaclaranasctoledo&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaranasctoledo&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=anaclaranasctoledo&theme=github-dark&hide_border=true"
-    height="165"
-  />
-</p>
-
+<div align="center">
+  <a href="https://github.com/anaclaranasctoledo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaclaranasctoledo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaranasctoledo&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaclaranasctoledo&theme=tokyonight" alt="anaclaranasctoledo" />
+</div>
 ---
 
 ## 💼 Sobre mim  
