@@ -3,6 +3,7 @@
 🎮 Criadora de conteúdo e desenvolvedora full stack apaixonada por design de interfaces, tecnologia e o universo dos games.
 
 ---
+
 ## 🧰 Tecnologias que eu uso  
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,51 +17,45 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## 📊 Estatísticas no GitHub
 
-<div align="center">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=anaclaranasctoledo&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=anaclaranasctoledo&show_icons=true&theme=github_dark&hide_border=true"
     height="165"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaranasctoledo&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaranasctoledo&layout=compact&theme=github_dark&hide_border=true"
     height="165"
   />
-</div>
+</p>
 
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=anaclaranasctoledo&theme=github-dark&hide_border=true"
+    height="165"
+  />
+</p>
 
 ---
 
 ## 💼 Sobre mim  
+
 Como criadora de conteúdo e desenvolvedora, combino habilidades em front end e back end com paixão pelo universo gamer. Tenho experiência na criação de interfaces interativas, projetos baseados em design voltados para usuários e otimização de experiências de navegação. Atuo também no compartilhamento de conhecimento e engajamento com comunidades de tecnologia e games.
 
 ---
 
 ## 📬 Vamos nos conectar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-nascimento-toledo-a49876231)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-clara-nascimento-toledo-a49876231)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF3366?style=for-the-badge&logo=firefox&logoColor=white)](https://linkr.bio/LumineCherry)
 
 ---
 
-💖 Obrigada por visitar meu perfil — fico feliz em conectar, colaborar e criar juntos!  
-
-<!--
-**anaclaranasctoledo/anaclaranasctoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💖 Obrigada por visitar meu perfil — fico feliz em conectar, colaborar e criar juntos!
