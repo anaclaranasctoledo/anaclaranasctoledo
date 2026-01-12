@@ -18,9 +18,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
-## 📈 Estatísticas no GitHub  
-![Ana Clara’s GitHub stats](https://github-readme-stats.vercel.app/api?username=anaclaranasctoledo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaranasctoledo&layout=compact&theme=radical)  
+## 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=anaclaranasctoledo&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaranasctoledo&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</div>
+
 
 ---
 
